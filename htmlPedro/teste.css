@@ -1,0 +1,45 @@
+html
+{
+    background-color: blueviolet;
+}
+header
+{
+   
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100pt;
+}
+.MPZUDO
+{
+    color: rgb(255, 0, 0);
+    
+}
+main
+{
+  
+    color: rgb(255, 255, 255);
+    font-size: 100pt;
+   
+    
+}
+div
+{   
+    
+    margin-left: 30%;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+    background-image: url("https://www.diarioceleste.com.br/wp-content/uploads/2024/05/CRUZEIRO-ADQUIRIR-JOAO-MARCELO.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 42% 85%;
+    border-width: 5pt;
+    border-color: aqua;
+    border-bottom-color: palevioletred;
+    border-style: solid;
+}
+ .arroz
+{
+    background-color: aliceblue;
+    color: black;
+}
